@@ -2,6 +2,10 @@ import React from "react";
 
 function Employee(props){
     const {name,city} = props;
+    
+    function test(){
+        console.log("Test");
+    }
     return (
         <>
             <h1>Employee Details</h1>
