@@ -8,7 +8,7 @@ function Employee(props){
     }
     return (
         <>
-            <h1>Employee Details</h1>
+            <h1>Employee Infomration</h1>
             <div className="container">
                 <h1>Employee Name is {name}</h1>
                 <h1>Employee City is {city}</h1>
